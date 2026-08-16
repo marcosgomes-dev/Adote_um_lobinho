@@ -1,6 +1,6 @@
 # 🐺 Adote um Lobinho
 
-Site desenvolvido como parte de um **processo seletivo para uma empresa júnior**, com o objetivo de simular uma plataforma de adoção de lobos. O projeto permite visualizar, cadastrar, adotar e excluir "lobinhos", com todos os dados persistidos no `localStorage` do navegador.
+Site desenvolvido como parte de um processo seletivo para uma empresa júnior, com o objetivo de simular uma plataforma de adoção de lobos. O projeto permite visualizar, cadastrar, adotar e excluir "lobinhos", com todos os dados persistidos no `localStorage` do navegador.
 
 ## 📋 Sobre o projeto
 
@@ -70,4 +70,4 @@ Na primeira execução, os dados do arquivo `lobinhos.json` são carregados e sa
 
 ## 👤 Autor
 
-Projeto desenvolvido por **[seu nome aqui]** como parte do processo seletivo de uma empresa júnior.
+Projeto desenvolvido por mim como parte do processo seletivo de uma empresa júnior.
